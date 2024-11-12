@@ -1,9 +1,9 @@
 <?php
 // Configuración de la conexión
-$host = 'localhost';
+$host = 'sql308.infinityfree.com';
 $dbname = 'finalphp';
-$username = 'root';
-$password = '';
+$username = 'if0_37696194_finalphp';
+$password = 'RkgSDfEB2c7';
 
 // Crear la conexión
 try {
